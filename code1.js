@@ -1,0 +1,4 @@
+//CREATE A VARIABLE OF TYPE STRING AND TRY TO ADD NUMBER ON IT.
+let a="SATYAM"
+let b=9
+console.log(a+b)
